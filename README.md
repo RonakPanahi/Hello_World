@@ -3,7 +3,7 @@ A repo to start my journey,
 
 
 
-Hello World, welcoem to my GitHub :)
+Hello World, welcome to my GitHub :)
 
 
 This is Ronak Panahi, I have a Master's Degree from University of Illinois. A software developer in love with Coding and Playing with data and extracting different patterns in massive data-sets. 
